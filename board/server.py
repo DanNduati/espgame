@@ -3,7 +3,7 @@ import time
 import ujson
 
 bufferSize = 1024
-UDP_IP_ADDRESS = "192.168.0.182"
+UDP_IP_ADDRESS = "192.168.8.101"
 UDP_PORT = 6969
 serverSock = socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
 
