@@ -13,7 +13,7 @@ class display:
         self.y+=12
 
 #udp
-UDP_IP_ADDRESS = "192.168.8.101"
+UDP_IP_ADDRESS = "192.168.0.182"
 UDP_PORT_NO = 6969
 bufferSize = 1024
 #canvas

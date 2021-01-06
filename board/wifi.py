@@ -1,8 +1,8 @@
 import network
 import time
 
-SSID = "SimpThePimp"
-PASSWORD = "123456789"
+SSID = "Daniel"
+PASSWORD = "123456781"
 
 def conn(ssid,pwd):
     wlan = network.WLAN(network.STA_IF) #create a station interface
